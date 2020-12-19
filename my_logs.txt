@@ -1,0 +1,339 @@
+
+
+
+
+
+
+Array
+(
+    [_wpnonce] => e886a5b24c
+    [_wp_http_referer] => /staging/wp-admin/post.php?post=26927&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => http://localhost/staging/wp-admin/post.php?post=26927&action=edit
+    [_wp_original_http_referer] => http://localhost/staging/wp-admin/post.php?post=26927&action=edit
+    [post_ID] => 26927
+    [meta-box-order-nonce] => 1c94777ca4
+    [closedpostboxesnonce] => de2527bbda
+    [post_title] => Taiwan
+    [samplepermalinknonce] => d696235d21
+    [_acf_post_id] => 26927
+    [_acf_nonce] => 
+    [_acf_validation] => 1
+    [_acf_ajax] => 1
+    [_acf_changed] => 0
+    [content] => stufff 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [mm] => 04
+    [jj] => 18
+    [aa] => 2019
+    [hh] => 15
+    [mn] => 12
+    [ss] => 46
+    [hidden_mm] => 04
+    [cur_mm] => 04
+    [hidden_jj] => 18
+    [cur_jj] => 18
+    [hidden_aa] => 2019
+    [cur_aa] => 2019
+    [hidden_hh] => 15
+    [cur_hh] => 15
+    [hidden_mn] => 12
+    [cur_mn] => 14
+    [tai_checked] => on
+    [original_publish] => Update
+    [save] => Update
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [acf] => Array
+        (
+            [field_5beaed1015e0a] => 
+            [field_5beaf6bf47241] => 2020
+            [field_5beaed3c15e0b] => SPEX
+        )
+
+    [advanced_view] => 1
+    [add_comment_nonce] => 5e839f3a22
+    [_ajax_fetch_list_nonce] => 66160a3648
+    [post_name] => taiwan-2
+    [post_author_override] => 1
+    [gsmavideo_meta_box_nonce] => 4aea2c6fd0
+    [url-id-text] => 
+    [method] => hls
+    [level] => 
+    [image] => 
+    [width] => 
+    [height] => 
+    [controls] => on
+    [respond] => on
+    [link] => 
+    [class] => 
+    [template] => 
+    [caption] => 
+    [featured_video] => 
+    [featured_video_caption] => 
+    [taiwan_catch_nonce] => 5317c55fdb
+    [post_mime_type] => 
+    [ID] => 26927
+    [post_content] => stufff 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+
+
+
+
+
+
+
+
+
+Array
+(
+    [_wpnonce] => e886a5b24c
+    [_wp_http_referer] => /staging/wp-admin/post.php?post=26927&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => publish
+    [referredby] => http://localhost/staging/wp-admin/post.php?post=26927&action=edit
+    [_wp_original_http_referer] => http://localhost/staging/wp-admin/post.php?post=26927&action=edit
+    [post_ID] => 26927
+    [meta-box-order-nonce] => 1c94777ca4
+    [closedpostboxesnonce] => de2527bbda
+    [post_title] => Taiwan 
+    [samplepermalinknonce] => d696235d21
+    [_acf_post_id] => 26927
+    [_acf_nonce] => 
+    [_acf_validation] => 1
+    [_acf_ajax] => 1
+    [_acf_changed] => 0
+    [content] => stufff 
+    [wp-preview] => 
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [mm] => 04
+    [jj] => 18
+    [aa] => 2019
+    [hh] => 15
+    [mn] => 12
+    [ss] => 46
+    [hidden_mm] => 04
+    [cur_mm] => 04
+    [hidden_jj] => 18
+    [cur_jj] => 18
+    [hidden_aa] => 2019
+    [cur_aa] => 2019
+    [hidden_hh] => 15
+    [cur_hh] => 15
+    [hidden_mn] => 12
+    [cur_mn] => 16
+    [tai_checked] => on
+    [original_publish] => Update
+    [save] => Update
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [acf] => Array
+        (
+            [field_5beaed1015e0a] => 
+            [field_5beaf6bf47241] => 2020
+            [field_5beaed3c15e0b] => SPEX
+        )
+
+    [advanced_view] => 1
+    [add_comment_nonce] => 5e839f3a22
+    [_ajax_fetch_list_nonce] => 66160a3648
+    [post_name] => taiwan-2
+    [post_author_override] => 1
+    [gsmavideo_meta_box_nonce] => 4aea2c6fd0
+    [url-id-text] => 
+    [method] => hls
+    [level] => 
+    [image] => 
+    [width] => 
+    [height] => 
+    [controls] => on
+    [respond] => on
+    [link] => 
+    [class] => 
+    [template] => 
+    [caption] => 
+    [featured_video] => 
+    [featured_video_caption] => 
+    [taiwan_catch_nonce] => 5317c55fdb
+    [post_mime_type] => 
+    [ID] => 26927
+    [post_content] => stufff 
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+
+Array
+(
+)
+
+
+Array
+(
+)
+
+
+Array
+(
+    [data] => Array
+        (
+            [wp_autosave] => Array
+                (
+                    [post_id] => 26929
+                    [post_type] => page
+                    [post_author] => 1
+                    [post_title] => Taiwan
+                    [content] => 
+                    [excerpt] => 
+                    [catslist] => 
+                    [auto_draft] => 1
+                    [_wpnonce] => b17ae69102
+                )
+
+        )
+
+    [interval] => 60
+    [_nonce] => 9ee12d06c1
+    [action] => heartbeat
+    [screen_id] => page
+    [has_focus] => true
+)
+
+
+Array
+(
+    [_wpnonce] => b17ae69102
+    [_wp_http_referer] => /staging/wp-admin/post-new.php?post_type=page
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => page
+    [original_post_status] => auto-draft
+    [referredby] => http://localhost/staging/wp-admin/edit.php?post_type=page&ids=26927
+    [_wp_original_http_referer] => http://localhost/staging/wp-admin/edit.php?post_type=page&ids=26927
+    [auto_draft] => 1
+    [post_ID] => 26929
+    [meta-box-order-nonce] => 1c94777ca4
+    [closedpostboxesnonce] => de2527bbda
+    [post_title] => Taiwan
+    [samplepermalinknonce] => d696235d21
+    [_acf_post_id] => 26929
+    [_acf_nonce] => 185cb0daf0
+    [_acf_validation] => 1
+    [_acf_ajax] => 1
+    [_acf_changed] => 0
+    [content] => 12345
+    [wp-preview] => 
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [mm] => 04
+    [jj] => 18
+    [aa] => 2019
+    [hh] => 15
+    [mn] => 17
+    [ss] => 01
+    [hidden_mm] => 04
+    [cur_mm] => 04
+    [hidden_jj] => 18
+    [cur_jj] => 18
+    [hidden_aa] => 2019
+    [cur_aa] => 2019
+    [hidden_hh] => 15
+    [cur_hh] => 15
+    [hidden_mn] => 17
+    [cur_mn] => 17
+    [tai_checked] => on
+    [original_publish] => Publish
+    [publish] => Publish
+    [parent_id] => 
+    [page_template] => default
+    [menu_order] => 0
+    [_thumbnail_id] => -1
+    [acf] => Array
+        (
+            [field_5beaed1015e0a] => 
+            [field_5beaf6bf47241] => 2020
+            [field_5beaed3c15e0b] => SPEX
+        )
+
+    [advanced_view] => 1
+    [post_name] => 
+    [post_author_override] => 1
+    [gsmavideo_meta_box_nonce] => 4aea2c6fd0
+    [url-id-text] => 
+    [method] => hls
+    [level] => 
+    [image] => 
+    [width] => 
+    [height] => 
+    [controls] => on
+    [respond] => on
+    [link] => 
+    [class] => 
+    [template] => 
+    [caption] => 
+    [featured_video] => 
+    [featured_video_caption] => 
+    [taiwan_catch_nonce] => 5317c55fdb
+    [post_mime_type] => 
+    [ID] => 26929
+    [post_content] => 12345
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+
+] => 
+    [width] => 
+    [height] => 
+    [controls] => on
+    [respond] => on
+    [link] => 
+    [class] => 
+    [template] => 
+    [caption] => 
+    [featured_video] => 
+    [featured_video_caption] => 
+    [taiwan_catch_nonce] => 5317c55fdb
+    [post_mime_type] => 
+    [ID] => 26929
+    [post_content] => 12345
+    [post_parent] => 0
+    [comment_status] => closed
+    [ping_status] => closed
+)
